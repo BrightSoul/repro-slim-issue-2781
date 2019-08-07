@@ -4,7 +4,7 @@ Support project to this issue with Slim3.
 
 
 ## Getting started
-Run these command to install dependencies and prepare autoload
+Run these commands to install dependencies and setup autoload.
 ```
 composer install
 composer dump-autoload
